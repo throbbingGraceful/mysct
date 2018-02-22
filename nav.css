@@ -1,0 +1,14 @@
+*{ margin: 0; padding:0; font-size: 20px;}
+ul{ list-style: none; height: 50px; border-bottom: 10px solid #86d216; padding-left: 60px;}
+li{  float: left; margin-top: 20px; }
+a{ color: #badebf; text-decoration: none; display: block; text-align: center;
+    height: 30px;
+    line-height:30px;
+    width:120px;
+    background-color: #27debd;
+    margin-left: 1px;
+}
+
+  .on,a:hover{ background-color: coral; color: #18148b;height: 40px; margin-top: -10px;
+      line-height: 40px;
+  }
